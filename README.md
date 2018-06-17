@@ -41,7 +41,9 @@ $ python manager.py createsuperuser
 $ python manager.py runserver
 ```
 
-The web server should be available at http://localhost:8000/.
+The API Docs: http://localhost:8000/
+
+The Admin Painel: http://localhost:8000/admin/
 
 
 
